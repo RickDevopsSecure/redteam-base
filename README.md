@@ -1,6 +1,6 @@
 # redteam-base
 
-Catálogo de referencia propio: metodología, checklists, patrones de falsos positivos y scripts para red team (manual + agéntico). Destilado de trabajo real en KIRUX/XIPE y engagements de Capital Cloud, **genericizado** — sin nombres de cliente, dominios, IPs ni credenciales reales. Cada entrada es una lección reusable, no un reporte.
+Catálogo de referencia propio: metodología, checklists, patrones de falsos positivos y scripts para red team (manual + agéntico). Destilado de trabajo real construyendo scanners de seguridad y ejecutando engagements de pentest, **genericizado** — sin nombres de cliente ni de producto/empleador, sin dominios, IPs ni credenciales reales. Cada entrada es una lección reusable, no un reporte.
 
 ## Regla de oro del repo
 
@@ -20,4 +20,4 @@ Nada de esto lleva datos de un cliente específico. Si una lección viene de un 
 
 ## Cómo se alimenta
 
-Después de cada engagement o sesión de mejora de KIRUX, extraer la lección genérica (qué patrón se confirmó, qué falso positivo se cazó, qué gap de cobertura se cerró) y añadirla aquí sin datos identificables. Esto es un catálogo vivo, no un archivo histórico.
+Después de cada engagement o sesión de mejora de una herramienta propia, extraer la lección genérica (qué patrón se confirmó, qué falso positivo se cazó, qué gap de cobertura se cerró) y añadirla aquí sin datos identificables — nunca el nombre del producto, cliente o empleador de origen. Esto es un catálogo vivo, no un archivo histórico.
