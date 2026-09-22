@@ -17,6 +17,7 @@ Nada de esto lleva datos de un cliente específico. Si una lección viene de un 
 - `agentic-redteam/` — lecciones específicas de usar LLMs como agente ofensivo (tool-calling, fallos silenciosos, límites de modelos "uncensored").
 - `scripts/` — herramientas propias reusables, organizadas por fase.
 - `checklists/` — checklists operativos por fase de ataque.
+- `writeups/` — casos reales anonimizados (sector, técnica y hallazgo — nunca cliente, dominio ni fecha exacta).
 
 ## Cómo se alimenta
 
