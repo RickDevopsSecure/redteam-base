@@ -20,6 +20,8 @@ Nada de esto lleva datos de un cliente específico. Si una lección viene de un 
 - `writeups/` — casos reales anonimizados (sector, técnica y hallazgo — nunca cliente, dominio ni fecha exacta).
 - `essays/` — análisis y opinión sobre IA aplicada a seguridad ofensiva, con fuentes citadas.
 
+Ver `writeups/` para los casos completos: pentest web/DNS en sector salud y CVP de fintech/pagos con revisión de código.
+
 ## Cómo se alimenta
 
 Después de cada engagement o sesión de mejora de una herramienta propia, extraer la lección genérica (qué patrón se confirmó, qué falso positivo se cazó, qué gap de cobertura se cerró) y añadirla aquí sin datos identificables — nunca el nombre del producto, cliente o empleador de origen. Esto es un catálogo vivo, no un archivo histórico.
