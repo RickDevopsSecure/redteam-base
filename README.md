@@ -18,6 +18,7 @@ Nada de esto lleva datos de un cliente específico. Si una lección viene de un 
 - `scripts/` — herramientas propias reusables, organizadas por fase.
 - `checklists/` — checklists operativos por fase de ataque.
 - `writeups/` — casos reales anonimizados (sector, técnica y hallazgo — nunca cliente, dominio ni fecha exacta).
+- `essays/` — análisis y opinión sobre IA aplicada a seguridad ofensiva, con fuentes citadas.
 
 ## Cómo se alimenta
 
