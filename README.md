@@ -21,7 +21,7 @@ Nada de esto lleva datos de un cliente específico. Si una lección viene de un 
 - `essays/` — análisis y opinión sobre IA aplicada a seguridad ofensiva, con fuentes citadas.
 - `training/` — roadmap de recursos gratuitos para prepararse antes de certificaciones de paga (OSCP/CRTO).
 
-Ver `writeups/` para los casos completos: pentest web/DNS en sector salud, CVP de fintech/pagos con revisión de código, OSINT pasivo en un grupo de telecomunicaciones, y bug bounty de pre-lanzamiento en infraestructura para agentes de IA.
+Ver `writeups/` para los casos completos: pentest web/DNS en sector salud, CVP de fintech/pagos con revisión de código, OSINT pasivo en un grupo de telecomunicaciones, bug bounty de pre-lanzamiento en infraestructura para agentes de IA, y bypass de autenticación multi-proveedor en una plataforma clínica.
 
 ## Cómo se alimenta
 
